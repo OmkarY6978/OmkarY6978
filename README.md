@@ -2,7 +2,7 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWE4czY2N2VoZDU2c29vdGRyN2Z3cWZkd21ydHc2amN0dWRhdWxldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fNmJ20ErpkjK/giphy.gif" alt="Sasuke Uchiha animated" width="600"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Omkar Yadav</h1>
+<h1 align="center">Hi 👋, I'm Omkar Yadav !</h1>
 <h3 align="center">A Data Shinobi forging powerful solutions from the darkness of raw data.</h3>
 
 <br>
