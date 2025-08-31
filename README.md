@@ -54,6 +54,18 @@
   *Built a real-time data pipeline on AWS with S3, Glue, Kinesis, Lambda & Athena.*  
 
 ---
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/OmkarY6978/OmkarY6978/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📜 Shinobi Scroll of Wisdom
+<div align="center">
+  <img src="./assets/scroll.png" width="400" alt="Shinobi Scroll"/>
+  <br><br>
+  <i>“Even the strongest of opponents always has a weakness.” – Sasuke Uchiha</i>
+</div>
+---
 
 ### 📊 Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarY6978&layout=compact&theme=tokyonight)  
