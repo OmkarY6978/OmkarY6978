@@ -67,8 +67,11 @@
 
 ---
 
+---
+
 <div align="center">
-  <img src="https://media.giphy.com/media/jn6uU5Lk7rELe/giphy.gif" width="300" alt="Sharingan"/>
-  <br>
-  <sub>“Even the strongest of opponents always has a weakness.” – Sasuke Uchiha</sub>
+  <img src="./assets/sasuke.gif" width="300" alt="Sasuke Sharingan"/>
+  <br><br>
+  <i>“Even the strongest of opponents always has a weakness.” – Sasuke Uchiha</i>
 </div>
+
