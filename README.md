@@ -3,15 +3,13 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Omkar Yadav</h1>
-<h3 align="center">A Data Shinobi on a mission to forge powerful solutions from the darkness of raw data.</h3>
+<h3 align="center">A Data Shinobi forging powerful solutions from the darkness of raw data.</h3>
 
 <br>
 
-Like Sasuke, I walk a path focused on honing my skills and seeking knowledge. My Sharingan is the ability to analyze complex data, perceiving patterns and predicting outcomes that others might miss. I turn chaotic information into strategic assets.
+My Sharingan is analyzing complex data to perceive patterns and predict outcomes, turning chaotic information into strategic assets.
 
 🥷 My Arsenal of Jutsu (Languages & Tools)
-These are the techniques I've mastered on my journey.
-
 <p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
@@ -31,19 +29,11 @@ These are the techniques I've mastered on my journey.
 📜 Completed Missions (Featured Projects)
 1. Mission: The Infinite Data Stream (End-to-End Cloud Data Pipeline)
 
-Objective: To construct a powerful system on AWS capable of taming both massive torrents of historical data and the lightning-fast flicker of real-time events.
-
-Outcome: Forged a scalable, serverless pipeline that processes and unifies batch and streaming data, making it ready for high-level analysis and visualization.
-
-Jutsu Used: AWS (S3, Glue, Kinesis, Lambda, Athena), PySpark, Python, SQL, Power BI
+Forged a scalable AWS pipeline to process and unify massive batch (Glue, PySpark) and real-time (Kinesis, Lambda) data streams for high-level BI analysis.
 
 2. Mission: The Eye of Insight (Customer Churn Prediction)
 
-Objective: To peer into the future using machine learning, identifying which customers are about to stray from their path and understanding their hidden loyalties.
-
-Outcome: Developed a predictive model that segments customers into distinct personas ("Champions", "At-Risk") and flags potential churn, enabling proactive strategies. The results are displayed on an interactive web dashboard.
-
-Jutsu Used: Python (Pandas, Scikit-learn), Machine Learning, HTML/CSS, JavaScript, Data Visualization
+Developed an ML model (Python, Scikit-learn) to segment customers and predict churn, deploying insights to an interactive web dashboard (HTML/JS).
 
 🌐 Find Me in the Shinobi World
 <p align="center">
