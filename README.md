@@ -1,7 +1,7 @@
 <!-- Sasuke Theme GitHub Profile README -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/z7ExmwhugNnQ8/giphy.gif" width="400" alt="Sasuke Uchiha"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWE4czY2N2VoZDU2c29vdGRyN2Z3cWZkd21ydHc2amN0dWRhdWxldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fNmJ20ErpkjK/giphy.gif" width="400" alt="Sasuke Uchiha"/>
 </div>
 
 # こんにちは 👋 I'm Omkar Yadav  
