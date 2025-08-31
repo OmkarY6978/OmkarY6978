@@ -1,5 +1,6 @@
 <!-- Sasuke Theme GitHub Profile README -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+AI+%26+DS+Enthusiast;Building+Data+Pipelines+%26+ML+Models;Storyteller+through+Data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=18&duration=3000&pause=1000&color=38C2FF&width=600&lines=Data+Engineer+%7C+AI+%26+DS+Enthusiast;Building+Data+Pipelines+%26+ML+Models;Storyteller+through+Data)](https://git.io/typing-svg)
+
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWE4czY2N2VoZDU2c29vdGRyN2Z3cWZkd21ydHc2amN0dWRhdWxldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fNmJ20ErpkjK/giphy.gif" width="400" alt="Sasuke Uchiha"/>
