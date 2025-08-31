@@ -29,11 +29,11 @@ My Sharingan is analyzing complex data to perceive patterns and predict outcomes
 📜 Completed Missions (Featured Projects)
 1. Mission: The Infinite Data Stream (End-to-End Cloud Data Pipeline)
 
-Forged a scalable AWS pipeline to process and unify massive batch (Glue, PySpark) and real-time (Kinesis, Lambda) data streams for high-level BI analysis.
+Forged a scalable AWS pipeline to tame and unify massive batch (Glue, PySpark) and real-time (Kinesis, Lambda) data streams for powerful BI analysis.
 
 2. Mission: The Eye of Insight (Customer Churn Prediction)
 
-Developed an ML model (Python, Scikit-learn) to segment customers and predict churn, deploying insights to an interactive web dashboard (HTML/JS).
+Unleashed a predictive ML model (Python, Scikit-learn) to segment customers and halt churn, visualizing the battle plan on an interactive web dashboard.
 
 🌐 Find Me in the Shinobi World
 <p align="center">
