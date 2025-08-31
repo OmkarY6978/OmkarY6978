@@ -46,8 +46,6 @@
 
 ### 🚀 Featured Projects  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmkarY6978&repo=AWS-retail-data-pipeline&theme=tokyonight)](https://github.com/OmkarY6978/AWS-retail-data-pipeline)
-
 - [🛍 Customer Churn Prediction](https://github.com/OmkarY6978/Proactive-Customer-Retention)  
   *Predicts at-risk customers & provides retention strategies with ML + RFM analysis.*  
 
