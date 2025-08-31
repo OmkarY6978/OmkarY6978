@@ -1,34 +1,74 @@
+<!-- Sasuke Theme GitHub Profile README -->
+
 <div align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/C24s22tru0aFG/giphy.gif" alt="Sasuke Uchiha animated" width="600"/>
+  <img src="https://media.giphy.com/media/z7ExmwhugNnQ8/giphy.gif" width="400" alt="Sasuke Uchiha"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Omkar Yadav</h1>
-<h3 align="center">A Data Shinobi forging powerful solutions from the darkness of raw data.</h3>
+# こんにちは 👋 I'm Omkar Yadav  
 
-<br>
+⚡ Data Engineer | AI & DS Enthusiast | Storyteller through Data  
 
-My Sharingan is analyzing complex data to perceive patterns and predict outcomes, turning chaotic information into strategic assets.
+---
 
-🥷 My Arsenal of Jutsu (Languages & Tools)
-<p align="center">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-</p>
+### 👤 About Me  
+- 🔥 Exploring **Data Engineering & Analytics** (Python, SQL, AWS, PySpark, Kafka)  
+- ⚡ Experienced in building **real-time pipelines & ML-driven dashboards**  
+- 🤝 Open to collaborations on **Data Engineering & ML projects**  
+- 💡 Fun fact: Debugging feels like unlocking **Sasuke’s Sharingan**  
 
-📜 Completed Missions (Featured Projects)
-1. Mission: The Infinite Data Stream (End-to-End Cloud Data Pipeline)
-Engineered a serverless AWS pipeline to process and unify vast batch (Glue, PySpark) and real-time (Kinesis, Lambda) data streams, transforming raw data into a query-optimized data lake ready for high-level BI analysis.
+---
 
-2. Mission: The Eye of Insight (Customer Churn Prediction)
-Developed a predictive ML model (Python, Scikit-learn) to segment customers into actionable personas and proactively identify churn risks, deploying insights to an interactive web dashboard built with HTML and JavaScript.
+### 🛠 Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+
+---
+
+### ⚙️ Frameworks & Tools  
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apachespark&logoColor=white)  
+![Kafka](https://img.shields.io/badge/-Kafka-000000?logo=apachekafka&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white)  
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn&logoColor=white)  
+
+---
+
+### 🗄 Databases  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+
+---
+
+### 🚀 Featured Projects  
+- [🛍 Customer Churn Prediction](https://github.com/OmkarY6978/Proactive-Customer-Retention)  
+  *Predicts at-risk customers & provides retention strategies with ML + RFM analysis.*  
+
+- [☁️ AWS Retail Data Pipeline](https://github.com/OmkarY6978/AWS-retail-data-pipeline)  
+  *Built a real-time data pipeline on AWS with S3, Glue, Kinesis, Lambda & Athena.*  
+
+---
+
+### 📊 Stats  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarY6978&layout=compact&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OmkarY6978&show_icons=true&theme=tokyonight)  
+
+---
+
+### 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-yadav)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/OmkarY6978)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:omkaryadav532@gmail.com)  
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/jn6uU5Lk7rELe/giphy.gif" width="300" alt="Sharingan"/>
+  <br>
+  <sub>“Even the strongest of opponents always has a weakness.” – Sasuke Uchiha</sub>
+</div>
